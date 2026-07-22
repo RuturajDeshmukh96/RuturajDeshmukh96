@@ -12,7 +12,7 @@
     <a href="https://new-portfollio-qb1ybjr17-ruturaj96.vercel.app/">
       <img src="https://img.shields.io/badge/🌐_Live_Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1117" alt="Portfolio" />
     </a>
-    <a href="https://www.linkedin.com/in/ruturajdeshmukh96">
+    <a href="https://www.linkedin.com/in/ruturaj-deshmukh-b42638389">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
     </a>
     <a href="mailto:ruturajdeshmukh0096@gmail.com">
@@ -27,7 +27,6 @@
 
 ### ⚡ Quick Intro
 
-Instead of reading like a formal CV, here is a quick snapshot of what I build and do:
 
 * 🎓 **Software Engineering:** Postgraduate student building scalable software with a strong focus on clean backend architecture and algorithm design (**9.70 CGPA**).
 * 🤖 **AI & Full-Stack Focus:** Actively bridging the gap between deep learning computer vision models (OpenCV/TensorFlow) and responsive, cloud-hosted web applications.
@@ -38,7 +37,7 @@ Instead of reading like a formal CV, here is a quick snapshot of what I build an
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,dotnet,react,html,css,flask,django,tensorflow,opencv,aws,azure,git,github,vscode&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,java,react,django,aws,github,vscode&theme=dark&perline=7" alt="Tech Stack Icons" />
 </p>
 
 ---
@@ -54,17 +53,25 @@ Instead of reading like a formal CV, here is a quick snapshot of what I build an
 
 ---
 
-### 📊 GitHub Activity
+### 🏆 GitHub Trophies & Achievements
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RuturajDeshmukh96&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuturajDeshmukh96&theme=catppuccin_mocha&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RuturajDeshmukh96&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+<br>
+
+### 📊 Real-Time Telemetry & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RuturajDeshmukh96&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00F0FF&title_color=00F0FF&icon_color=00c7b7" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuturajDeshmukh96&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00c7b7&currStreakLabel=00F0FF" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuturajDeshmukh96&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuturajDeshmukh96&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF" alt="Top Languages" width="65%" />
 </div>
 
 ---
