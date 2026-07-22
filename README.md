@@ -27,7 +27,7 @@
 
 ### ⚡ Quick Intro
 
-Instead of reading like a formal CV, here is a quick snapshot of what I build and do:
+ A quick snapshot of what I build and do:
 
 * 🎓 **Software Engineering:** Postgraduate student building scalable software with a strong focus on clean backend architecture and algorithm design (**9.70 CGPA**).
 * 🤖 **AI & Full-Stack Focus:** Actively bridging the gap between deep learning computer vision models (OpenCV/TensorFlow) and responsive, cloud-hosted web applications.
@@ -95,5 +95,5 @@ Instead of reading like a formal CV, here is a quick snapshot of what I build an
 ---
 
 <p align="center">
-  <i>⭐ Designed for speed, scalability, and clean code. Reach out to build something great together! ⭐</i>
+  <i>⭐ Reach out to build something great together! ⭐</i>
 </p>
