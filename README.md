@@ -27,6 +27,7 @@
 
 ### ⚡ Quick Intro
 
+Instead of reading like a formal CV, here is a quick snapshot of what I build and do:
 
 * 🎓 **Software Engineering:** Postgraduate student building scalable software with a strong focus on clean backend architecture and algorithm design (**9.70 CGPA**).
 * 🤖 **AI & Full-Stack Focus:** Actively bridging the gap between deep learning computer vision models (OpenCV/TensorFlow) and responsive, cloud-hosted web applications.
@@ -64,14 +65,31 @@
 ### 📊 Real-Time Telemetry & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RuturajDeshmukh96&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=00F0FF&title_color=00F0FF&icon_color=00c7b7" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuturajDeshmukh96&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00c7b7&currStreakLabel=00F0FF" alt="GitHub Streak" width="48%" />
-</div>
 
-<br>
+  <!-- Glowing Header Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,20,30&height=45&section=header&animation=fadeIn" alt="Header Wave" width="100%" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuturajDeshmukh96&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF" alt="Top Languages" width="65%" />
+  <br><br>
+
+  <!-- Giant Interactive Stat Cards Row (Includes Private Commits & Side Labels) -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=RuturajDeshmukh96&show_icons=true&theme=tokyonight&hide_border=false&border_color=00F0FF&bg_color=0D1117&ring_color=00F0FF&title_color=00F0FF&icon_color=00c7b7&include_all_commits=true&count_private=true" alt="Ruturaj's GitHub Stats" width="49%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RuturajDeshmukh96&theme=tokyonight&hide_border=false&border=00F0FF&background=0D1117&ring=00F0FF&fire=00c7b7&currStreakLabel=00F0FF&sideLabels=true" alt="GitHub Streak" width="49%" />
+  </p>
+
+  <br>
+
+  <!-- Expanded Donut Chart & Live Contribution Graph -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuturajDeshmukh96&layout=donut-vertical&theme=tokyonight&hide_border=false&border_color=00F0FF&bg_color=0D1117&title_color=00F0FF&langs_count=6" alt="Top Languages Donut" width="45%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RuturajDeshmukh96&theme=tokyo-night&hide_border=false&border_color=00F0FF&bg_color=0D1117&color=00F0FF&line=00c7b7&point=ffffff&area=true&hide_title=false" alt="Activity Graph" width="53%" />
+  </p>
+
+  <br>
+
+  <!-- Glowing Footer Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,20,6&height=40&section=footer&animation=fadeIn" alt="Footer Wave" width="100%" />
+
 </div>
 
 ---
