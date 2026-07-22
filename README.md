@@ -29,7 +29,7 @@
 
  A quick snapshot of what I build and do:
 
-* 🎓 **Software Engineering:** Postgraduate student building scalable software with a strong focus on clean backend architecture and algorithm design (**9.70 CGPA**).
+* 🎓 **Software Engineering:** Postgraduate (MCA) student building scalable software with a strong focus on clean backend architecture and algorithm design (**9.70 CGPA**).
 * 🤖 **AI & Full-Stack Focus:** Actively bridging the gap between deep learning computer vision models (OpenCV/TensorFlow) and responsive, cloud-hosted web applications.
 * 💡 **Beyond the Code:** National Level Hackathon competitor & National Level Athlete (Shooting Ball)—I thrive in disciplined, fast-paced, collaborative team environments.
 
